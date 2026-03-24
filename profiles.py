@@ -14,7 +14,7 @@ df = pd.read_csv('profiles.csv')
 
 
 # =========================
-# 2. CLEAN DATA
+# 2. CLEANING DATA
 # =========================
 
 # Dropping columns that don't help prediction
